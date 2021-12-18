@@ -1,0 +1,40 @@
+﻿
+Card Values and Scoring:
+Each card is worth its value unless it is a face or an ace.
+A face is worth 10 points and an ace can be worth either 1 or 11 points.
+
+Objective:
+You want your hand to add up as close to 21 as possible or equal to it without going over. Beat the dealer!
+
+Before it is your turn:
+Before the round starts, each player places a bet. The minimum bet is $10.
+Everyone is dealt two cards face up and the dealer is dealt one card face up and one card face down. 
+If the dealer's upcard is an Ace, you can make an insurance bet (1/2 your bet) on the dealer having blackjack.
+If the dealer has 21 at the start, they collect the bets of everyone who does not have 21.
+If the dealer and a player both have 21 at the start, it is a tie and the player collects their bet back.
+If a player has 21 at the start and the dealer does not, the player gets back 2.5x their bet.
+
+How your turn works:
+The player to the left of the dealer goes first (if they have 21, it is the next player turn).
+You can decide whether to stand, hit, split, or double down.
+If you decide to stand, you keep your hand and it is the next player turn.
+If you decide to hit, you are given another card and that value is added on. You can make another decision from there.
+You can only split if you have two cards and they are equal in value. This creates two separate hands you can then play on 
+(starting with your right hand), and your bet is equal on both.
+You can only split if your hand value is 9, 10, or 11. This doubles your bet and gives you only one extra card.
+If you go bust (get over 21), equal to 21, you doubled down, or you decided to stand, it is then the next player turn.
+
+Dealer turn:
+After all the players go, the dealer then plays.
+If the dealer has less than 17 (or an A and a 6) the dealer has to continue to give themselves cards.
+At the end of the dealer turn, if the dealer has a higher total than you, they collect your bet.
+If the dealer has gone over 21, you collect your bet back (unless you have also gone over 21, then you lose it).
+If the dealer has an equal total to you, you collect your bet back.
+If you have a higher total than the dealer, you collect 2x your bet back.
+
+How to play the variant:
+The same rules apply.
+Exceptions: 
+* Your bet is double your original bet because your cards are automatically split before your turn (it does not matter your cards).
+* You cannot split again.
+* You can choose whether or not you want to switch the bottom two cards of your hands before playing.

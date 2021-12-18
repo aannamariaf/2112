@@ -1,0 +1,23 @@
+﻿Card values:
+10, J, Q, K, and A are all worth -1.
+2, 3, 4, 5, and 6 are all worth +1.
+
+
+How to count:
+Start at 0 and add or subtract according to the card presented.
+
+
+How the simulator works:
+You will be asked for your current count after a certain number of cards have passed.
+
+You will be presented with a True Count which is your current count divided by the number of decks
+you are using and a betting recommendation (if you were to play with this count in a game).
+
+Your True Count is how you determine how much to bet on a blackjack round. (You will practice this in blackjack)
+
+You can use either formula: Amount to Bet = (True Count + 1) x 10 or  Amount to Bet = (True Count – 1) x 25 
+depending on how high of a risk you want to take.
+
+The basic principle is bet high for high counts and bet low for low counts.
+ 
+If the count is negative or 0, bet the minimum.
