@@ -6,3 +6,4 @@ This is an online blackjack game/counting cards practice simulator. The goal of 
 
 The python file “Term Project TP3” should be run in an editor. All image files (card images, table image, and suit images) and text files (user data, “how to” instructions) submitted with the python file should be located in the same folder while the project is run. The cmu graphics file should also be included. 
 
+Link to youtube video: https://youtu.be/AZP0-FdKyOU 
